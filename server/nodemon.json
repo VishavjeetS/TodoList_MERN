@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "VishavjeetS",
+    "MONGO_PASSWORD": "Vishav@1234",
+    "MONGO_DB": "Cluster0"
+  }
+}
